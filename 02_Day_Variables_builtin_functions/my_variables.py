@@ -1,5 +1,12 @@
 # Day 2: 30 Days of python programming
-first_name = Harsimar
+first_name = 'Harsimar'
 last_name = 'Gurdatta'
 full_name = 'Harsimar Gurdatta'
-country = '
+country = 'India'
+city =  'New Delhi'
+Age = '23'
+year = '2023'
+is_married = 'True'
+is_true = 'False'
+is_light_on = 'True'
+First_name, Last_name, Country,City, Age, Year = 'Harsimar', 'Gurdatta', 'India', 'New Delhi', '23', '2023'
